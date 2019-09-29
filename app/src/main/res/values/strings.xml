@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MyMapTest</string>
+    <string name="title_activity_maps">Map</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="kakao_app_key">9f81edcae6b4d8f8cf88a872bd3a0024</string>
+    <string name="kakao_scheme">kakao9f81edcae6b4d8f8cf88a872bd3a0024</string>
+    <string name="kakaolink_host">kakaolink</string>
+
+
+</resources>
